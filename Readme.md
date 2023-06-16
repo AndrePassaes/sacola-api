@@ -20,13 +20,6 @@ Gradle	7.
 Postman	9.
 Swagger 2.
 
-No Terminal/Console:
-
-Faça um clone do projeto na sua máquina: git clone (incluir link do clone)
-Entre na pasta raiz do projeto: cd sacola-api
-Rode o comando: ./gradlew bootrun
-Com a aplicação "de pé", clique aqui: http://localhost:8082/swagger-ui/
-
 Sacola API Swagger UI
 
 Tecnologias Utilizadas
